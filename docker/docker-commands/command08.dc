@@ -1,1 +1,1 @@
-docker kill 02images
+docker stop 02images
